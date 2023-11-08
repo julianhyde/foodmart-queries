@@ -19,6 +19,7 @@ License.
 {% endcomment %}
 -->
 [![Build Status](https://github.com/julianhyde/foodmart-queries/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/julianhyde/foodmart-queries/actions?query=branch%3Amain)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.hydromatic/foodmart-queries/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.hydromatic/foodmart-queries)
 
 # foodmart-queries
 SQL queries issued by Mondrian against the FoodMart data set, in JSON format
