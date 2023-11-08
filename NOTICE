@@ -3,7 +3,7 @@ SQL queries issued by Mondrian against the FoodMart data set, in JSON format
 
 Copyright (C) 2004-2005 Julian Hyde
 Copyright (C) 2005-2012 Pentaho
-Copyright (C) 2015-2015 Julian Hyde
+Copyright (C) 2015-2023 Julian Hyde
 All Rights Reserved.
 
 Based upon the Pentaho mondrian-data-queries artifact developed as
